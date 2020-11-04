@@ -62,4 +62,9 @@ Offline Functionality:
   * Heroku Repository: 
     [Heroku](https://docs.google.com/document/d/1lyepxmd7pjRYFfgmMBWRrXZsqlJJJnfZ6mc0PrZIrRQ/edit?usp=sharing)
   
+  * Budget Tracker App Images
+     ![Image of Deduction from a monthly Budget](https://github.com/whintzen/Online-Offline-Budget-Trackers/blob/master/public/icons/Setting-Budget.jpg)
+
+     ![Image of Summing up spending](https://github.com/whintzen/Online-Offline-Budget-Trackers/blob/master/public/icons/Totalling-Budget.jpg)
+  
   
