@@ -47,14 +47,13 @@ Offline Functionality:
 ## Tools:
  * Node
  * Express
- * Mongoose schema
- * Mongodb - in order to load and store the
-   Workout Tracker data 
+ * Mongoose schema * 
  * Models
  * Javascript        
  * Package json 
  * CSS
  * HTML
+ * Heroku
 
 ## Links:
   * Github Repository:
