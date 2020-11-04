@@ -22,8 +22,7 @@ request.onsuccess = ({ target }) => {
   }
 };
 
-request.onerror = function(event) {
-  // console.log("Woops! " +event.target.errorCode);
+request.onerror = function(event) {  
   console.log("Woops! " +event.target.errorCode)
 };
 
