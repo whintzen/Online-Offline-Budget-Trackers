@@ -60,7 +60,7 @@ Offline Functionality:
     [Github](https://github.com/whintzen/Online-Offline-Budget-Trackers)
 
   * Heroku Repository: 
-    [Heroku](https://docs.google.com/document/d/1lyepxmd7pjRYFfgmMBWRrXZsqlJJJnfZ6mc0PrZIrRQ/edit?usp=sharing)
+    [Heroku](https://secret-wildwood-01899.herokuapp.com)
   
   * Budget Tracker App Images
      ![Image of Deduction from a monthly Budget](https://github.com/whintzen/Online-Offline-Budget-Trackers/blob/master/public/icons/Setting-Budget.jpg)
