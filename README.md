@@ -1,14 +1,25 @@
-# :arrows_counterclockwise: Unit 18 PWA Homework: Online/Offline Budget Trackers  :arrows_clockwise:
-
-## Instructions
-Add functionality to our existing Budget Tracker application to allow for offline access and functionality.
-
-Inspect the code to get an understanding of each file's responsibility. Then, in a Google Doc, write a tutorial explaining *every* file and its purpose. If one file is dependant on other files, be sure to let the user know.
-
-At the end of the tutorial, add instructions for how you could now add changes to this project.
+# :heavy_dollar_sign: Unit 18 PWA Homework: Online/Offline Budget Trackers  :money_with_wings:
 
 ## Business Context
 Giving users a fast and easy way to track their money is important, but allowing them to access that information anytime is even more important. Having offline functionality is paramount to our applications success.
+
+## Concept
+Add functionality to our existing Budget Tracker application to allow for offline access and functionality.
+
+The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
+
+Offline Functionality:
+
+  * Enter deposits offline
+
+  * Enter expenses offline
+
+  * When brought back online:
+
+  * Offline entries should be added to tracker.
+
+## Instructions
+
 
 ## User Story
 ```
