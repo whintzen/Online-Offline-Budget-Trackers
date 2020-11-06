@@ -35,7 +35,7 @@ Offline Functionality:
   * Working Offline:
     * Localhost:
       * After entering some budget items, Inspect the Web page by right clicking on it and choosing
-        `Inspect`.   Click on `Application` and select `Service Workers`.  Check the `Offline` box and refresh the screen.  All the data disappears as the application is Offline.  Enter a new item, uncheck the Offline box and then click refresh.   The information that was there before should return and the item added also.  You might need to refresh a few times.
+        `Inspect`.   Click on `Application` and select `Service Workers`.  Check the `Offline` box and refresh the screen.  All the data disappears as the application is Offline.  Enter a new item, uncheck the Offline box and then click refresh. The information that was there before should return and the item added also.  You might need to refresh a few times.
     * Heroku:    
       * After entering some budget items, Inspect the Web page by right clicking on it and choosing
         `Inspect`.   Click on `Network`and select `Offline`.  Enter a new budget item and select enter.  Refresh the database and notice that it has not been recorded, even though it has been recorded in the App.  Go to `Application` and `Storage` select the `INdexDB`, then the `Budget`, then `pending` and notice that the item entered offline is pending. Go to Network and change `offline` to `online` and refresh the page, Applications and MongoAtlas database and the item entered Offline will be in the database, and it will also disappear from `pending' 
